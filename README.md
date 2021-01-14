@@ -1,2 +1,2 @@
-# Mockup-Thywedding
+# ThyWedding
 Created with CodeSandbox
